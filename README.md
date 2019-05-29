@@ -4,4 +4,4 @@
 
 3、此代码在skip_thoughts模型基础上增加了bilstm\attention\bilstm+attention
 
-4、有空博客补充skip_thoughts的原理与代码详解
+4、博客：https://blog.csdn.net/weixin_40746796/article/details/89669545
